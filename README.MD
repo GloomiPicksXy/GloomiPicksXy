@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm GloomiPicks</h1>
-<h3 align="center">Welcome</h3>
+> [!Important]
+> WSG
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gloomipicksxy&label=Profile%20views&color=0e75b6&style=flat" alt="gloomipicksxy" /> </p>
 
