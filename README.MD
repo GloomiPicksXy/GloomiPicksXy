@@ -1,5 +1,5 @@
-> [!Important]
-> WSG
+> [Hello]
+> I'm a 13 year old and I am half Western Chinese and Aussie
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gloomipicksxy&label=Profile%20views&color=0e75b6&style=flat" alt="gloomipicksxy" /> </p>
 
