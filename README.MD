@@ -1,17 +1,30 @@
-> [Hello]
-> I'm a 13 year old and I am Western Chinese and Aus
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/GloomiPicksXy" target="blank">
+Gloom</a></h1>
+<h3 align="center">I play & make beats and code stuff</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sepremz&abbreviated=true" alt="seen" /> </p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="160" width="160" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/959716048075296014/6E0EB84D32090719B68289BB3F6A3A977F039D6C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gloomipicksxy&label=Profile%20views&color=0e75b6&style=flat" alt="gloomipicksxy" /> </p>
+<div class="center">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gloomipicksxy" alt="gloomipicksxy" /></a> </p>
+<p align="center">
+<h3 align="center" >My Links 🤝 </h3>
 
-- ⚡ Fun fact **I am new to Python but I have some experience on LUA**
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://soundcloud.com/sepremz/">
+			<img src="https://img.icons8.com/doodle/48/soundcloud--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/sepremz/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/sepremz">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" https://www.youtube.com/@sepremz">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+                <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/sepremz">
+			<img src="https://img.icons8.com/doodle/48/facebook-new.png" ></a>
+<a style="margin-left: 10px;" target="_blank" href="https://steamcommunity.com/id/sepremz/">
+			<img src="https://img.icons8.com/doodle/48/steam-circled.png" ></a>
+      </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gloomipicksxy&show_icons=true&locale=en" alt="gloomipicksxy" /></p>
