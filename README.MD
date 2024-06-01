@@ -1,6 +1,5 @@
 <h1 align="center">About me 🦅</h1>
 I'm 13
-## Info
 
 ### Languages I currently know:
 
