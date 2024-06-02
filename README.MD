@@ -5,12 +5,10 @@ I'm 13 and I'm 🇰🇿/🇵🇭
 
 - Python 🐍
 - Lua 🐦
-- C# 🌀
 
 ### Languages I am learning:
 
-- C ⚡
-
+- C++ ⚡
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GloomiPicksXy&abbreviated=true" alt="seen" /> </p>
 <a target="_blank" align="center">
