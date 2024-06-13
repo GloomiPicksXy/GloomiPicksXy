@@ -1,5 +1,5 @@
 <h1 align="center">About me </h1>
-I'm 13 and I'm 🇰🇿/🇵🇭
+I'm 13 and I'm 🇰🇿
 
 ### Languages I currently know:
 
