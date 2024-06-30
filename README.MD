@@ -1,10 +1,12 @@
 <h1 align="center">About me </h1>
-I'm 13 and I'm 🇰🇿
+I'm 15 and I'm 🇰🇿
 
 ### Languages I currently know:
 
 - Python 🐍
 - Lua 🐦
+- Web 💀
+- C# 💀
 
 ### Languages I am learning:
 
