@@ -1,16 +1,18 @@
 <h1 align="center">About me </h1>
-I'm 15 and I'm 🇰🇿
+I'm 15
 
 ### Languages I currently know:
 
 - Python 🐍
 - Lua 🐦
-- Web 💀
-- C# 💀
+- Web [HTMl, CSS]
+
+
 
 ### Languages I am learning:
 
 - C++ ⚡
+- C# 🌹
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GloomiPicksXy&abbreviated=true" alt="seen" /> </p>
 <a target="_blank" align="center">
