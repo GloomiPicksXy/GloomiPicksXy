@@ -1,5 +1,5 @@
 <h1 align="center">About me </h1>
-I'm 15
+I'm open for commission work
 
 ### Languages I currently know:
 
@@ -9,10 +9,13 @@ I'm 15
 
 
 
+
 ### Languages I am learning:
 
 - C++ ⚡
 - C# 🌹
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GloomiPicksXy&abbreviated=true" alt="seen" /> </p>
 <a target="_blank" align="center">
